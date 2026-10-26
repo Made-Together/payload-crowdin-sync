@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.1.0](https://github.com/Made-Together/payload-crowdin-sync/compare/payload-localized-fields-v1.0.0...payload-localized-fields-v1.1.0) (2026-10-26)
+
+
+### Features
+
+* **adapters:** extract writer/reader contracts into payload-localization-adapters ([#393](https://github.com/Made-Together/payload-crowdin-sync/issues/393)) ([30c10ff](https://github.com/Made-Together/payload-crowdin-sync/commit/30c10ff0f6237fc5a114b5f8bc9add935c66ff3c))
+* **document:** extract Payload field walk into payload-document ([#387](https://github.com/Made-Together/payload-crowdin-sync/issues/387)) ([7b28f7d](https://github.com/Made-Together/payload-crowdin-sync/commit/7b28f7ddfba9f1c898d3cf93cfa66e2d2485a455))
+* **document:** move json/html document slice into payload-localized-fields ([#390](https://github.com/Made-Together/payload-crowdin-sync/issues/390)) ([703775b](https://github.com/Made-Together/payload-crowdin-sync/commit/703775b6f14a0c877b01b5d35daab6cd2de6e1f8))
+
+
+### Bug Fixes
+
+* load published packages under native Node ESM ([#397](https://github.com/Made-Together/payload-crowdin-sync/issues/397)) ([cbeb738](https://github.com/Made-Together/payload-crowdin-sync/commit/cbeb73813bd5c6fa7697a4bfb2febadcdb74e394))
+* **releaseplease:** write changelogs next to each package so tagging can resume ([#388](https://github.com/Made-Together/payload-crowdin-sync/issues/388)) ([635fd40](https://github.com/Made-Together/payload-crowdin-sync/commit/635fd403d74aa3c71c8ed832a892de52717abaec))
+
 ## 1.0.0 (2026-10-14)
 
 
